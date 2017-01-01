@@ -1,0 +1,22 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "API Basejump: Timestamp microservice",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-venogwe/timestamp.git"
+  },
+  "keywords": [
+    "timestamp"
+  ],
+  "author": "iykyvic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andela-venogwe/timestamp/issues"
+  },
+  "homepage": "https://github.com/andela-venogwe/timestamp#readme"
+}
