@@ -3,7 +3,16 @@
   "version": "1.0.0",
   "description": "API Basejump: Timestamp microservice",
   "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^2.0.1",
+    "mocha": "^2.4.5"
+  },
   "scripts": {
+    "start": "SET NODE_ENV=dev && node app.js",
     "test": "mocha"
   },
   "repository": {
