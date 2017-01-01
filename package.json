@@ -12,7 +12,7 @@
     "mocha": "^2.4.5"
   },
   "scripts": {
-    "start": "SET NODE_ENV=dev && node app.js",
+    "start": "node app.js",
     "test": "mocha"
   },
   "repository": {
